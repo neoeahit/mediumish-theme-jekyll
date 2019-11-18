@@ -5,7 +5,7 @@ description: "A space catered towards promoting design thinking princicples and 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-152707874-1'
 disqus: 'designthinkplay'
 mailchimp-list: ''
 include: ["_pages"]
