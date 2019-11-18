@@ -39,6 +39,7 @@ Customer Experience in today's world is the single most important thing while bu
 
 These three dimensions not only have a striking similarity to Design Thinking, but also a huge overlap. As a design thinker you will care about customer empathy, feasibility and practicality. The beauty of Design Thinking is that it helps us to trigger our creative instincts by asking why([Five Why’s](https://en.wikipedia.org/wiki/Five_whys)) and framing the right problem statements. Problem finding and problem definition is where a good design thinker and a product manager should spend the most time.
 
+![Inspirational Quote](https://steemitimages.com/DQmUWH4mhwCNzvNKtzVFsnMLU7ou4rsESQXdAKRWrKnzgSn/AAEAAQAAAAAAAAlRAAAAJGRhNGZhMzZjLWI0ZWUtNDkzNy1hZDgxLWRmODFkMDcxZWJkZg.jpg)
 
 Having these design thinking skills coupled with analyticals skills enforces us to be successful PM’s. In early stages of products, how many times have your heard PM’s focussing on user-centric metrics like Net Promoter Score ([NPS](https://www.netpromoter.com/know/)) or customer satisfaction ratings as their north star? Using such metrics is not only very important when building products catered towards user-engagement, but also helps in gauging user interest and hinting user needs.
 
