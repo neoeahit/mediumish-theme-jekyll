@@ -24,7 +24,7 @@ Design Thinking is not something new(stay tuned for a later post on this), its c
 - Prototype 
 - Test
 
-![Image-1](https://carolinedowdhiggins.com/wp-content/uploads/design-thinking-model-1024x791-1024x585.jpg)
+![Image-1](https://qph.fs.quoracdn.net/main-qimg-74a3ed237b3e1b4497f88312cbee1713.webp)
 
 Let’s take a step back, and look back at the definition of Design Thinking again - the various stages actually just articulate the core definition.
 
