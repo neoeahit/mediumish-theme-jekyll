@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-152707874-1'
-disqus: 'designthinkplay'
+disqus: 'http-designthinkplay-com'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
