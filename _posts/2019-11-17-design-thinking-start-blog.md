@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design Thinking: what the hell!"
+title:  "Design Thinking: Product:: potato:potato"
 author: Vipul
 categories: [ Design Thinking ]
 featured: true
@@ -23,6 +23,8 @@ Design Thinking is not something new(stay tuned for a later post on this), its c
 - Ideate
 - Prototype 
 - Test
+
+![Image-1](https://carolinedowdhiggins.com/wp-content/uploads/design-thinking-model-1024x791-1024x585.jpg)
 
 Let’s take a step back, and look back at the definition of Design Thinking again - the various stages actually just articulate the core definition.
 
