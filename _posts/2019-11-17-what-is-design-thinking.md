@@ -3,7 +3,7 @@ layout: post
 title:  "Design Thinking: Product:: potato:potato"
 author: Vipul
 categories: [ Design Thinking ]
-featured: true
+featured: false
 image: assets/images/2.jpg
 ---
 

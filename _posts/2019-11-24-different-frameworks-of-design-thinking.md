@@ -4,7 +4,7 @@ title:  "Different frameworks of Design Thinking"
 author: Vipul
 categories: [ Design Thinking ]
 featured: true
-image: assets/images/2.jpg
+image: assets/images/2.gif
 ---
 
 # tldr;
@@ -18,7 +18,7 @@ There is not one, but many Design Thinking models out there. This article focuse
 
 Some people reached out to me after my [first blog](http://designthinkplay.com/what-is-design-thinking/) about Design Thinking(abbreviated from hereon as DT), inquiring if I had examples of how DT can be exercised into a real-life use-case. In one of my upcoming blogs we will try to build a product using DT, taking one of the many methodologies out there. Yes you read it right, `one of the many methodologies`.  DT as many of you will be aware of is not a new concept, it’s been there for ages(according to [wikipaedia](https://en.wikipedia.org/wiki/Design_thinking), its origin can be traced back to 1950’s). People have been applying DT principles and frameworks over decades, just that over the past few years the term has received assiduity and has been gaining momentum. If we analyse the trend over the past 10 years, we can see the number of google searches on `Design Thinking` and `Product Design`, highlighting that not only DT searches are catching up(it's becoming more of a fad), but also that the trend has gained more momentum after 2016.
 
-![Image-1](http://designthinkplay.com/assets/images/blog2-image1.jpg)
+![Image-1](http://designthinkplay.com/assets/images/blog2-image1.jpg =100x60)
 
 DT is not only applicable when building new products(even though in most people resonate DT with customer products), it's a process which facilitates strategic thinking thereby extending its overarching presence to almost all walks of life. The more you start talking about DT to people, you will start seeing its presence around in all industries:
 
