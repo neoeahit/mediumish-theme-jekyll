@@ -230,7 +230,7 @@ Called as collective action kit(or CAT), their DT methodology tries to empower y
 
 # So what have we learnt?
 
-Overall all the methodologies have the same essence - creating a human-centric problem solving process, with feedback loops, always looking back to ensure we are able  to learn and adapt. However there are subtle differences, some are linear in scope( for ex. Stanford d.School) whereas some are non-linear( i.e. Frog). Depending on the sector and the scale one can choose one vs the other methodology - for example if you are working in the social sector, IDEO and Frog better suited, whereas if you are working on a mid-sized company project you might find Google Design Sprints much more applicable.  
+Overall all the methodologies have the same essence - creating a human-centric problem solving process, with feedback loops, always looking back to ensure we are able  to learn and adapt. However there are subtle differences, some are linear in scope( for ex. Stanford d.School) whereas some are non-linear( i.e. Frog). Depending on the sector and the scale one can choose one vs the other methodology - for example if you are working in the social sector, IDEO and Frog better suited, whereas if you are working on a mid-sized company project you might find Google Design Sprints much more applicable. With so many models out there, choose one which works best for your use-case, after all they all achieve the same end-result.   
 
 Hope this post was helpful!
 
