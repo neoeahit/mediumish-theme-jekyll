@@ -157,7 +157,7 @@ Plan
 <img src="http://designthinkplay.com/assets/images/blog2-image2.jpg" alt="Hasso Plattner Institute of Design at Stanford" height="350" width="550"/>
 
 If you remember my previous blog, I have referenced the above picture. Stanford D.School, or Hasso Plattner Institute of Design proposes this 5 stage journey to DT.
-- **Empathize** - Know your audience, this step is focussed on observing,interviewing and thereby empathising with the user, to understand their needs, and unearth the unmet and open problems 
+- **Empathize** - Know your audience, this step is focussed on observing,interviewing and thereby empathizing with the user, to understand their needs, and unearth the unmet and open problems 
 - **Define** - Provide user stories describing and articulating the needs, defining the user persona, and providing a concise problem statement we need to solve
 - **Ideate** - Lets start brainstorming solutions(the ‘how’) now that we have defined the ‘what’ and ‘why’
 - **Prototype** - Instead of us building a full fledged solution, we want to build a minimum viable product(mvp) aimed at addressing customer needs 
