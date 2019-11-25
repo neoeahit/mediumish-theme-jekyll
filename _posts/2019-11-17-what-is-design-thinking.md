@@ -45,4 +45,4 @@ These three dimensions not only have a striking similarity to Design Thinking, b
 
 Having these design thinking skills coupled with analyticals skills enforces us to be successful PM’s. In early stages of products, how many times have your heard PM’s focussing on user-centric metrics like Net Promoter Score ([NPS](https://www.netpromoter.com/know/)) or customer satisfaction ratings as their north star? Using such metrics is not only very important when building products catered towards user-engagement, but also helps in gauging user interest and hinting user needs.
 
-Thanks for reading. Interested in more? Next up - *Different Models in Design Thinking*
+Thanks for reading. Interested in more? Next up - *[Different Models in Design Thinking](http://designthinkplay.com/different-frameworks-of-design-thinking/)*
