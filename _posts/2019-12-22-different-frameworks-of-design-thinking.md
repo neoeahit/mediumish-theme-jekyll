@@ -132,16 +132,15 @@ Plan
 </tbody>
 </table>
 <br/>
-<br/>
 
-Overall any of the DT frameworks focusses on these below questions:
+To be honest, any of the DT frameworks focusses on these below questions, no matter what their structures are.
 1. What are the needs of our user segment?
 2. What is the exact problem we are talking about?
 3. What are the many ways to solve the identified problem?
 4. What do we learn from our prototype? Does it actually solves the problem?
 
 Lets see each one of them in more detail.
-<br>
+<br/>
 
 
 ## Hasso Plattner Institute of Design at Stanford
