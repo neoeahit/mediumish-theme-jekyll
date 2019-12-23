@@ -133,7 +133,7 @@ Plan
 </table>
 <br/>
 
-To be honest, any of the DT frameworks focusses on these below questions, no matter what their structures are.
+To be honest, any of the DT frameworks focus on below questions, no matter what their structures are.
 1. What are the needs of our user segment?
 2. What is the exact problem we are talking about?
 3. What are the many ways to solve the identified problem?
