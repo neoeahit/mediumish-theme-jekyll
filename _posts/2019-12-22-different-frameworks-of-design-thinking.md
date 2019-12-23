@@ -15,7 +15,7 @@ There are many Design Thinking frameworks out there. This article focuses on sha
 
 # Let’s use Design Thinking? 
 
-Some people reached out to me after my [first blog](http://designthinkplay.com/what-is-design-thinking/) about Design Thinking(abbreviated from hereon as DT), inquiring if I had examples of how DT can be exercised into a real-life use-case. In one of my upcoming blogs we will try to build a product using DT, taking one of the many frameworks out there. Yes you read it right, `one of the many frameworks`.  DT as a concept, is not new, it’s been there for ages(according to [Wikipedia](https://en.wikipedia.org/wiki/Design_thinking), its origin can be traced back to 1950’s). People have been applying DT principles and frameworks over decades, just that over the past few years the term has received assiduity and has been gaining momentum. If we analyse the trend over the past 10 years, we can see the pattern on number of google searches on `Design Thinking` and `Product Design`, highlighting that not only DT searches are catching up(it's becoming more of a fad), but also that the trend has gained more momentum after 2016.
+Some people reached out to me after my [first blog](http://designthinkplay.com/what-is-design-thinking/) about Design Thinking(abbreviated from hereon as DT), inquiring if I had examples of how DT can be exercised into a real-life use-case. In one of my upcoming blogs we will try to build a product using DT, taking one of the many frameworks out there. Yes you read it right, `one of the many frameworks`.  DT as a concept, is not new, it’s been there for ages(according to [Wikipedia](https://en.wikipedia.org/wiki/Design_thinking), the origin of the term DT can be traced back to 1950’s). People have been applying DT principles and frameworks over decades, just that over the past few years the term has received assiduity and has been gaining momentum. If we analyse the trend over the past 10 years, we can see the pattern on number of google searches on `Design Thinking` and `Product Design`, highlighting that not only DT searches are catching up(it's becoming more of a fad), but also that the trend has gained more momentum after 2016.
 
 <img src="http://designthinkplay.com/assets/images/blog2-image1.jpg" alt="Google Trends" height="350" width="400"/>
 
@@ -133,6 +133,16 @@ Plan
 </table>
 <br/>
 <br/>
+
+Overall any of the DT frameworks focusses on these below questions:
+1. What are the needs of our user segment?
+2. What is the exact problem we are talking about?
+3. What are the many ways to solve the identified problem?
+4. What do we learn from our prototype? Does it actually solves the problem?
+
+Lets see each one of them in more detail.
+<br>
+
 
 ## Hasso Plattner Institute of Design at Stanford
 
