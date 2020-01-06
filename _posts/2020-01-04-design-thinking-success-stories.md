@@ -4,7 +4,7 @@ title:  "Design Thinking and Customer Success"
 author: Vipul
 categories: [ Design Thinking ]
 featured: true
-image: assets/images/2.gif
+image: assets/images/IMG_20200106_114007.jpg
 ---
 
 #### Who is this article for?
