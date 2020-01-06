@@ -4,7 +4,7 @@ title:  "There are many ways to Design Think!"
 author: Vipul
 categories: [ Design Thinking ]
 featured: true
-image: assets/images/2.gif
+image: 
 ---
 
 
@@ -22,12 +22,12 @@ Some people reached out to me after my [first blog](http://designthinkplay.com/w
 
 Contrary to popular belief, DT is not only applicable when building new products(even though in most cases people resonate DT with customer products), it's a process which facilitates strategic thinking thereby extending its overarching presence to almost all walks of life. The more you start talking about DT to people, the more you will start seeing its presence around in all industries:
 
-- [WeWork](https://sprintstories.com/a-design-sprint-failed-and-saved-wework-a-ton-of-money-case-study-8479725a2ff6) - A Design Sprint (actually) saved WeWork a ton of money
+- [WeWork](https://sprintstories.com/a-design-sprint-failed-and-saved-wework-a-ton-of-money-case-study-8479725a2ff6) - A design sprint (actually) saved wework a ton of money
 - [Bluebottle](https://sprintstories.com/case-study-blue-bottle-sprints-with-gv-f452789b8ecd) - Blue Bottle sprints with GV
-- [Daimler](https://medium.com/sap-innovation-spotlight/off-to-new-horizons-with-design-thinking-802f3028e9ee) - Off to New Horizons with Design Thinking
-- [Slack](https://slack.design/threads-in-slack-a-long-design-journey-a7c3f410ecb4) - Threads in Slack, a long design journey
-- [INFARM](https://www.ideo.com/case-study/designing-the-future-of-urban-farming) -  Developing B2B vertical farm units
-- [UCSF](https://meded.ucsf.edu/news/design-thinking-brings-innovation-health-care-and-medical-education) - Design Thinking Brings Innovation to Health Care and Medical Education
+- [Daimler](https://medium.com/sap-innovation-spotlight/off-to-new-horizons-with-design-thinking-802f3028e9ee) - Off to new horizons with design thinking
+- [Slack](https://slack.design/threads-in-slack-a-long-design-journey-a7c3f410ecb4) - Threads in slack, a long design journey
+- [INFARM](https://www.ideo.com/case-study/designing-the-future-of-urban-farming) -  Developing b2b vertical farm units
+- [UCSF](https://meded.ucsf.edu/news/design-thinking-brings-innovation-health-care-and-medical-education) - Design thinking brings innovation to health-care and medical education
 - ...
 
 As you can imagine, with DT being so prevalent, there are multiple models and frameworks promoting and explaining DT, but if we look at them closely they all try to achieve a common purpose - **co-creatively devise human-centric solutions to solve business problems**. In the section which follows below, I am going to be talking about four such design frameworks. Its going to be a long article, since I will be explaining the different methodologies, so if you are just looking for a summary, here you go
