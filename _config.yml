@@ -1,7 +1,7 @@
 # Site
-name: "Design thinking..."
-title: "D.T."
-description: "This space catered towards promoting design thinking principles and methodologies"
+name: "The Product Management Blog"
+title: "PM Blog"
+description: "This space catered towards promoting product thinking principles and share a consolidated view of whats happenning in this space"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -21,15 +21,6 @@ authors:
     web: 
     twitter: https://www.linkedin.com/in/vipulsinghtech/
     description: "Design aficionado"
-  Samina:
-    name: Samina Rahman
-    display_name: Samina   
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: samina.rahman@gmail.com
-    web: 
-    twitter: https://www.linkedin.com/in/samina/
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design Thinking and Customer Success" 
+title:  "#3 Design Thinking and Customer Success" 
 author: Vipul
 categories: [ Design Thinking ]
 featured: true

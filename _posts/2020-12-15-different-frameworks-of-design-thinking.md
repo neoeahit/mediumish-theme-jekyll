@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "There are many ways to Design Think!"
+title:  "#2 There are many ways to Design Think!"
 author: Vipul
 categories: [ Design Thinking ]
 featured: false

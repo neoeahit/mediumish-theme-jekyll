@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design Thinking: Product:: potato:potato"
+title:  "#1 Design Thinking: Product:: potato:potato"
 author: Vipul
 categories: [ Design Thinking ]
 featured: false

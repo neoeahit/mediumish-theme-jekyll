@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Space Contributors
-permalink: /about
-comments: true
+permalink: /contribute
+comments: false
 ---
 
-- [Vipul Singh](https://www.linkedin.com/in/vipulsinghtech/)
-- [Samina Rahman](https://www.linkedin.com/in/samina/)
+If you are interested in contributing, and are passsionate about writing about Product Management,
+please send me an <a href="mailto:neoeahit@example.com">email</a>.
+
