@@ -2,7 +2,7 @@
 layout: post
 title:  "#3 Design Thinking and Customer Success" 
 author: Vipul
-categories: [ Design Thinking ]
+categories: [ Design Thinking, Research ]
 featured: true
 image: assets/images/IMG_20200106_114007.jpg
 ---

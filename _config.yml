@@ -1,7 +1,7 @@
 # Site
 name: "The Product Management Blog"
 title: "PM Blog"
-description: "This space catered towards promoting product thinking principles and share a consolidated view of whats happenning in this space"
+description: "Welcome to the product management blog. Every week we talk about a new product management topic, or summarize happenings in product space across companies. Subscribe and stay tuned"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
