@@ -5,7 +5,7 @@ description: "Welcome to the product management blog. Every week we talk about a
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-152707874-1'
+google_analytics: 'G-8PK595M6VH'
 disqus: 'http-designthinkplay-com'
 mailchimp-list: ''
 include: ["_pages"]
