@@ -4,6 +4,8 @@ title:  "#3 Design Thinking and Customer Success"
 author: Vipul
 categories: [ Design Thinking, Research ]
 featured: false
+rating: 3
+hidden: false
 image: assets/images/IMG_20200106_114007.jpg
 ---
 

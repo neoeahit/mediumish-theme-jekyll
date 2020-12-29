@@ -4,6 +4,8 @@ title:  "#2 There are many ways to Design Think!"
 author: Vipul
 categories: [ Design Thinking ]
 featured: false
+rating: 4.5
+hidden: false
 image: 
 ---
 

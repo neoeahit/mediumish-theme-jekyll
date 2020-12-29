@@ -4,6 +4,8 @@ title:  "#4 Aggregation of various PRD templates"
 author: Vipul
 categories: [ Product Management, PRD ]
 featured: true
+rating: 4
+hidden: false
 image: https://miro.medium.com/max/4800/1*H2TtOJ2S11Gy5QYFnwspiA.png
 ---
 

@@ -4,6 +4,8 @@ title:  "#1 Design Thinking: Product:: potato:potato"
 author: Vipul
 categories: [ Design Thinking ]
 featured: false
+rating: 3.5
+hidden: false
 image: assets/images/2.jpg
 ---
 
