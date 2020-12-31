@@ -1,7 +1,8 @@
 # Site
 name: "The Product Management Blog"
 title: "PM Blog"
-description: "Welcome to the product management blog. Every week we talk about a new product management topic, or summarize happenings in product space across companies. Subscribe and stay tuned"
+description: "Welcome to the product management blog. There are many articles written on Product Management daily, and its hard to follow and subscribe to all.
+We use ML models to curate a weekly summary of important product management blogs, videos and articles/interviews from Product Leaders. Subscribe and stay tuned!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
