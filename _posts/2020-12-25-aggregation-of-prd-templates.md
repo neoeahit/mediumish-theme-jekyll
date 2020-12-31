@@ -13,26 +13,29 @@ Original Writeup: [link](https://www.notion.so/thedatapm/Hi-I-am-Vipul-540689c44
 
 You might see most product managers start scoping product features with a PRD.
 
-A PRD or a Product Requirements Document is an artifact which contains the basic functionality regarding a product, and serves as a way to communicate product features and prioritization. The document includes key goals served by the product, user segments, expected results, metrics!, time to completion and technical requirements.
+A PRD or a Product Requirements Document is an artifact which contains the basic functionality regarding a product, and serves as a way to communicate product features and prioritization decisions. It also includes key goals served by the product, user segments, expected results, success metrics(!!!), time to completion and technical requirements.
 
-So you might have this question, this sounds great but what exactly are the benefits and/or disadvantages of building a PRD? Answer👇🏽
+So you might think this sounds great but what exactly are the benefits and/or disadvantages of building a PRD? Answer👇🏽
 
 ##### Pros:
-- Helps provide the complete picture and assess chanllenges
-- Facilitates visualizing time required
+- Helps provide the complete picture and assists PM assess challenges
+- Facilitates scoping time required
 - Managing expectations between stakeholders and engineering
 
 ##### Cons:
 - Time intensive and cost intensive
 
 ### What should a PRD contain?
-Product Plan has published a good description for what a PRD needs to contains. For more details please refer to their [blog](https://www.productplan.com/glossary/product-requirements-document/#)
+Product Plan has published a good description for what a PRD needs to contain. For more details please refer to their [blog](https://www.productplan.com/glossary/product-requirements-document/#)
+![Product Plan PRD](https://www.productplan.com/uploads/PRD.png "Product Plan PRD")
+
+
 
 ### My Thoughts on PRD:
-A PRD is an essential document before starting with your product. For me it a must-have, as it not only helps me visualize the scale and assess risks, but also enables me to clarify expectations with my stakeholders. Another important purpose is to define the release criteria, and thereby limit scope creep( I dont know if you ever have faced a product scope blowing out of proportion when the release expectations are not set clearly, if you have surely try the PRDs). Of late in designing  products, I have seen and have been using figma and mural for developing my PRD's - it helps building a  effective PRD, however remember to keep the the designs agile and not invest all time in perfecting your designs.
+A PRD is an essential document before starting with your product. For me it is a must-have, as it not only helps me visualize the scale and assess risks, but also enables me to clarify expectations with my stakeholders. Another important purpose is to define the release criteria, and thereby limit any scope creep (I don't know if you ever have faced a product scope blowing out of proportion when the release expectations are not set clearly, if you have then surely try the PRDs). Of late in designing  products, I have seen and have been incorporating figma and mural for developing my PRD's - it helps in building an effective PRD, however my recommendation will be to remember to keep the designs agile and not invest all time in perfecting your designs at the beginning.
 
 While trying to build my PRD template, I have been doing research trying to find what all exists on the internet.  
-Below is a collection of the various PRD's I have found. There might be more, if you find any more, do add them to the comments, il keep this list updated. Thank you 🙏🏽
+Below is a collection of the various PRD's I have found. There might be more, if you find more, do add them to the comments, il keep this list updated. Thank you 🙏🏽
 
 
 <style type="text/css" rel="stylesheet">
