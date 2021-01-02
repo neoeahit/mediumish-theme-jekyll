@@ -8,14 +8,14 @@ rating: 4
 hidden: false
 image: https://miro.medium.com/max/4800/1*H2TtOJ2S11Gy5QYFnwspiA.png
 ---
+**Audience**: Product Managers or anyone interested in PM knowledge resources
 
-Original Writeup: [link](https://www.notion.so/thedatapm/Hi-I-am-Vipul-540689c44307478292e71e5ef1bf8943?p=a24b156b034c42369f07ceafdd0917a4)
+**Original Writeup**: [link](https://www.notion.so/thedatapm/Hi-I-am-Vipul-540689c44307478292e71e5ef1bf8943?p=a24b156b034c42369f07ceafdd0917a4)
 
-You might see most product managers start scoping product features with a PRD.
-
+You might have seen most product managers start scoping product features with a PRD.
 A PRD or a Product Requirements Document is an artifact which contains the basic functionality regarding a product, and serves as a way to communicate product features and prioritization decisions. It also includes key goals served by the product, user segments, expected results, success metrics(!!!), time to completion and technical requirements.
 
-So you might think this sounds great but what exactly are the benefits and/or disadvantages of building a PRD? Answer👇🏽
+All this sounds great but what exactly are the benefits and/or disadvantages of building a PRD? Answer👇🏽
 
 ##### Pros:
 - Helps provide the complete picture and assists PM assess challenges
