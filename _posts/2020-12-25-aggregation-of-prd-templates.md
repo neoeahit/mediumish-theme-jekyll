@@ -127,7 +127,6 @@ table th {
 </style>
 
 <table>
-  <caption>Statement Summary</caption>
   <thead>
     <tr>
       <th scope="col">PRD Name</th>
@@ -249,3 +248,27 @@ table th {
     </tr>
   </tbody>
 </table>
+<br>
+<br>
+<div>
+            <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+            <style type="text/css">
+	            #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+            </style>
+            <div id="mc_embed_signup">
+                <form action="https://gmail.us20.list-manage.com/subscribe/post?u=32508a0cab0502331da6e5eee&amp;id=e808deaff3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <div id="mc_embed_signup_scroll">
+                        <label for="mce-EMAIL"> Like the post?  Subscribe to the weekly newsletter</label>
+                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_32508a0cab0502331da6e5eee_e808deaff3" tabindex="-1" value=""></div>
+                        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                    </div>
+                </form>
+            </div>
+
+</div>
+<br>
+<br>
+<br>
+<br>
