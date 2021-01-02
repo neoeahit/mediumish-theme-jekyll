@@ -3,7 +3,7 @@ layout: post
 title:  "#5 Product Management Weekly"
 author: Vipul
 categories: [ Product Management, Weekly ]
-featured: true
+featured: false
 hidden: true
 rating: 3
 image: https://seanwes.com/wp-content/uploads/2016/09/283-sp-publish-weekly.png
