@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#4 Aggregation of various PRD templates"
+title:  "#4 Collection of various PRD templates"
 author: Vipul
 categories: [ Product Management, PRD ]
 featured: true
