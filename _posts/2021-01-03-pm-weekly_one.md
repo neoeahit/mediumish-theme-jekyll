@@ -5,7 +5,7 @@ author: Vipul
 categories: [ Product Management, Weekly ]
 featured: true
 hidden: false
-rating: 3
+rating: 5
 image: assets/images/weekly.jpg
 ---
 
