@@ -570,6 +570,8 @@ Tue, January 5, 2021, 11:30 AM – 12:00 PM PST
             </div>
 
 </div>
+<br>
+
 <footer class="well page-footer mt-auto text-center">
     💡 P.S. Opinions are our own and don’t reflect the opinions of any of our employer's or any of the companies
     mentioned
