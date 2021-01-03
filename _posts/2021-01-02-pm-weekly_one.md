@@ -72,8 +72,7 @@ the on-boarding experiences for stakeholders*, and *reducing user choices during
 </div>
 
 Kieran writes about how a clear product strategy plays an important role in growth.
-Build a clear product vision, make strategic investments to meet your product vision and rely on long-term objectives
-which helps not only team members to rally around an idea but also helps with customer adoption!
+Build a clear product vision, make strategic investments to meet your product vision and rely on long-term objectives helps not only team members to rally around an idea but also helps with customer adoption!
 
 >>Customers buy trajectories as much as they buy current features,
 >>They’re not just buying into the current product—they’re also buying into what the future of that product is going to look like.
@@ -224,8 +223,8 @@ Mind The Product lists and documents 10 great product talks on its platform in 2
 </div>
 
 Sara writes on Product Craft website on 6 new year resolutions to consider for product managers.
-These include building adaptable roadmaps, use data driven decision-making, communicate better,
-spend (more) time with customers and remove unused features. Read full article for details!  
+These include building adaptable roadmaps, using data driven decision-making, communicating better,
+spending (more) time with customers and removing unused features. Read full article for details!  
 
 ---
 
@@ -358,7 +357,7 @@ table th {
     <tr>
       <th scope="col">Event Name</th>
       <th scope="col">Presented By/Created By</th>
-      <th scope="col">Register Link</th>
+      <th scope="col">Register Link  </th>
       <th scope="col">Date/Time</th>
     </tr>
   </thead>
@@ -370,8 +369,8 @@ table th {
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;  "><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Anamika Datta/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-lateral-growth-from-dentist-to-pm-by-zalando-pm-tickets-130564709561?aff=erelexpmlt">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-lateral-growth-from-dentist-to-pm-by-zalando-pm-tickets-130564709561?aff=erelexpmlt">Register Link  </a>
       </td>
      <td data-label="Date/Time">
       Tue, January 5, 2021, 3:30 AM – 4:00 AM PST  
@@ -384,8 +383,8 @@ table th {
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Brandon Quinn/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-identifying-your-product-management-style-by-linkedin-sr-pm-tickets-130563778777?aff=erelexpmlt">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-identifying-your-product-management-style-by-linkedin-sr-pm-tickets-130563778777?aff=erelexpmlt">Register Link  </a>
       </td>
      <td data-label="Date/Time">
       Mon, January 4, 2021, 2:00 PM – 2:30 PM PST
@@ -398,8 +397,8 @@ table th {
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Sinduja Ramanujam/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-defining-okrs-by-microsoft-sr-pm-tickets-130777150979?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-defining-okrs-by-microsoft-sr-pm-tickets-130777150979?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
       Mon, January 4, 2021, 3:30 AM – 4:00 AM PST
@@ -412,8 +411,8 @@ table th {
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Masoud Alhelou/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-ab-testing-and-experimentation-by-expedia-sr-pm-tickets-129662942351?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-ab-testing-and-experimentation-by-expedia-sr-pm-tickets-129662942351?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Mon, January 4, 2021, 11:30 AM – 12:00 PM PST
@@ -426,8 +425,8 @@ Mon, January 4, 2021, 11:30 AM – 12:00 PM PST
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Manisha Sharma/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-how-to-deal-with-ambiguous-problems-as-a-pm-by-facebook-pm-tickets-130795427645?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-how-to-deal-with-ambiguous-problems-as-a-pm-by-facebook-pm-tickets-130795427645?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Sat, January 9, 2021, 11:30 AM – 12:00 PM PST
@@ -440,8 +439,8 @@ Sat, January 9, 2021, 11:30 AM – 12:00 PM PST
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Pranav Pathak/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-translating-user-journeys-into-numbers-by-bookingcom-group-pm-tickets-130395593731?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-translating-user-journeys-into-numbers-by-bookingcom-group-pm-tickets-130395593731?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Fri, January 8, 2021, 3:30 AM – 4:00 AM PST
@@ -454,8 +453,8 @@ Fri, January 8, 2021, 3:30 AM – 4:00 AM PST
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Khadija Qader/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-how-to-navigate-and-become-a-growth-leader-by-microsoft-pm-tickets-128240610117?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-how-to-navigate-and-become-a-growth-leader-by-microsoft-pm-tickets-128240610117?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Thu, January 7, 2021, 11:30 AM – 12:00 PM PST
@@ -468,8 +467,8 @@ Thu, January 7, 2021, 11:30 AM – 12:00 PM PST
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Khadija Qader/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-transitioning-from-business-analyst-to-product-by-linkedin-sr-pm-tickets-131187933641?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-transitioning-from-business-analyst-to-product-by-linkedin-sr-pm-tickets-131187933641?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Thu, January 7, 2021, 2:00 PM – 2:30 PM PST
@@ -482,8 +481,8 @@ Thu, January 7, 2021, 2:00 PM – 2:30 PM PST
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Jochen Simon/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-facilitate-ideation-sessions-as-a-product-manager-by-ebay-sr-pm-tickets-127988062741?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-facilitate-ideation-sessions-as-a-product-manager-by-ebay-sr-pm-tickets-127988062741?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Wed, January 6, 2021, 11:30 AM – 12:00 PM PST
@@ -496,8 +495,8 @@ Wed, January 6, 2021, 11:30 AM – 12:00 PM PST
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Michael Heinley/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-applying-product-mindset-to-everyday-life-by-bookingcom-group-pm-tickets-126546874107?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-applying-product-mindset-to-everyday-life-by-bookingcom-group-pm-tickets-126546874107?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Wed, January 6, 2021, 3:30 AM – 4:00 AM PST
@@ -510,8 +509,8 @@ Wed, January 6, 2021, 3:30 AM – 4:00 AM PST
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Laura Onu/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-building-ai-first-products-by-expedia-sr-product-manager-tickets-130778031613?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-building-ai-first-products-by-expedia-sr-product-manager-tickets-130778031613?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Wed, January 6, 2021, 3:30 AM – 4:00 AM PST    </td>
@@ -523,8 +522,8 @@ Wed, January 6, 2021, 3:30 AM – 4:00 AM PST    </td>
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Vikram Madan/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-best-practices-in-building-ml-saas-products-by-amazon-principal-pm-tickets-129664842033?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-best-practices-in-building-ml-saas-products-by-amazon-principal-pm-tickets-129664842033?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Tue, January 5, 2021, 2:00 PM – 2:30 PM PST
@@ -537,8 +536,8 @@ Tue, January 5, 2021, 2:00 PM – 2:30 PM PST
       <td data-label="Presented By/Created By">
        <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Anang Kumar/Product School</div></div></div>
       </td>
-      <td data-label="Register Link">
-        <a href="https://www.eventbrite.com/e/webinar-neglecting-users-in-enterprise-apps-by-microsoft-sr-pm-tickets-131594742417?aff=pswebsite">Register Link</a>
+      <td data-label="Register Link  ">
+        <a href="https://www.eventbrite.com/e/webinar-neglecting-users-in-enterprise-apps-by-microsoft-sr-pm-tickets-131594742417?aff=pswebsite">Register Link  </a>
       </td>
     <td data-label="Date/Time">
 Tue, January 5, 2021, 11:30 AM – 12:00 PM PST
