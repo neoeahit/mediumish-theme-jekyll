@@ -6,7 +6,7 @@ categories: [ Product Management, Weekly ]
 featured: true
 hidden: false
 rating: 5
-image: assets/images/weekly.jpg
+image: assets/images/blog_weekly.jpg
 ---
 
 Welcome to the another edition of the PM blog newsletter.
@@ -136,8 +136,10 @@ understanding user pain-points, user segmentation and prioritization
 </div>
 
 Great HBR article on `pricing hacks` retailers use to help increase the perceive value of offerings
-thereby guiding consumers towards more expensive and better options. These hacks include: 1. framing higher prices as an upgrade
-2. translating intangible costs into $$$ 3. Stacking all available discounts and presenting individually is perceived better as compared to lumpsum
+thereby guiding consumers towards more expensive and better options. These hacks include: 
+1. framing higher prices as an upgrade
+2. translating intangible costs into $$$ 
+3. Stacking all available discounts and presenting individually is perceived better as compared to lumpsum
 
 ---
 
@@ -258,9 +260,10 @@ Caroline presents an excellent framework on GTM strategy. More details are also 
 
 ### Upcoming Talks and conferences on Product Management happening this week. 
 
-This section is to provide a list of all talks on PM happening this week. 
-**This is not a sponsorship post but only intended to provide a common place
-to see what's happening in this space in the coming week.**
+This section provides a list of all talks on PM happening this week. 
+
+**Please note: This is not a sponsored post but only intended to provide a common place
+to see what's happening in the coming week.**
 
 RSVP to the individual links to attend. 
 
@@ -549,7 +552,7 @@ Tue, January 5, 2021, 11:30 AM – 12:00 PM PST
 ---
 
 <br>
-<div>
+<div class="well page-footer mt-auto text-center">
             <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
             <style type="text/css">
 	            #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -567,6 +570,9 @@ Tue, January 5, 2021, 11:30 AM – 12:00 PM PST
             </div>
 
 </div>
-<br>
-
-<br>
+<footer class="well page-footer mt-auto text-center">
+    💡 P.S. Opinions are our own and don’t reflect the opinions of any of our employer's or any of the companies
+    mentioned
+    <br>
+    <br>
+</footer>
