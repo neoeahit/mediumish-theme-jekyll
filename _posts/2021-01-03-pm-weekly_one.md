@@ -3,13 +3,14 @@ layout: post
 title:  "#5 Product Management Weekly"
 author: Vipul
 categories: [ Product Management, Weekly ]
-featured: true
+featured: false
 hidden: false
-rating: 5
+rating: 4.5
 image: assets/images/blog_weekly.jpg
 ---
 
 Welcome to the another edition of the PM blog newsletter.
+
 This week's writeup focuses on product strategy, roadmaps and summarization of 2020 content
 from Havard Business School, Product Craft, Product School, Mind The Product and others. 
 
