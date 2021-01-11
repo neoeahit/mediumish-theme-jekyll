@@ -10,9 +10,8 @@ image: assets/images/blog_weekly.jpg
 ---
 
 Welcome to the another edition of the PM blog newsletter.
-This week's writeup focuses on **pricing trends**, **strategy (changes)**, and **user experience**. 
-Dive into this article to learn more about Lyft, Uber, Peloton, CSAT, Mixed Methods Research philosophy and much more.
-
+This week's writeup focuses on **pricing trends**, **strategy (changes)**, and **user experience**.
+Dive into this article to learn more about product strategy @ Lyft, Uber, Peloton, CSAT, Mixed Methods Research philosophy and much more.
 ---
 
 
