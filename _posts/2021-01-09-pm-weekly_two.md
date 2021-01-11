@@ -97,6 +97,7 @@ Pricing strategies include
 - Enhanced Subscription models(ex: Snowflake, Stitch Fix)
 - Monetizing(ex: Fortnite)
 - Freemium and Selective Monetization(ex: Notion, Nike)
+
 Checkout the blog for details.
 
 ---
@@ -129,10 +130,11 @@ Checkout the blog for details.
 </div>
 
 LearnUXD writes about best practices for building user personas. These include:
-- Discovering from research
+- Discovering data from research
 - Building personas which are digestible and focused
 - Include psychographics, not demographics
 - Limiting to how many personas you should own 
+
 Checkout the blog for details.
 
 ---
