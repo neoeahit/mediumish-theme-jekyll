@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "#6 Product Management Weekly"
+title:  "#7 Product Management Weekly"
 author: Vipul
 categories: [ Product Management, Weekly ]
-featured: false
+featured: true
 hidden: false
 rating: 5
 image: assets/images/blog_weekly.jpg
 ---
 
-Welcome to the another edition of the PM blog newsletter.
-This week's writeup focuses on **pricing trends**, **strategy (changes)**, and **user experience**.
-Dive into this article to learn more about product strategy @ Lyft, Uber, Peloton, CSAT, Mixed Methods Research philosophy and much more.
+Welcome to the another edition of the Product Weekly newsletter. 
+This week’s write-up focuses on the **results from a SaaS onboarding research**, **freemium model(s)**, **cognitive biases**,
+**developing go-to-market strategies**, **JTBD framework** and more.
+Dive into this article to learn more about related product work @ Instagram, Facebook, and Peacock.
 
 <div class="well page-footer mt-auto text-left">
             <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
@@ -35,7 +36,7 @@ Dive into this article to learn more about product strategy @ Lyft, Uber, Peloto
 ---
 
 
-### Uber and Lyft's divergent visions for transport-as-a-service
+### The 2020 State of SaaS Product On-boarding
 
 <div style="display: flex;">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
@@ -47,7 +48,7 @@ Dive into this article to learn more about product strategy @ Lyft, Uber, Peloto
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://productinsights.substack.com/p/uber-lyft-transportation-service-bundling">link</a>
+        <a href="https://userpilot.com/saas-product-onboarding/">link</a>
     </div>
 </div>
 <div style="display: flex;">
@@ -56,17 +57,25 @@ Dive into this article to learn more about product strategy @ Lyft, Uber, Peloto
     </div>
 </div>
 
-Product Insights writes about how even though Uber and Lyft product strategy's seemed similar before, they are slowly diverging 
-and pointing two different visions of transportation-as-a-service. 
-Is Uber trying to become a B2B SaaS logistics platform along with providing freight and ride-sharing?
-And is Lyft on the other hand focussing and building for “yuppie” (young, urban professional) category? 
-More insights in the article.
+Userpilot writes about their research on SaaS product on-boarding. This is an excellent read if you are looking into
+building an on-boarding funnel and want to find best practices and things to avoid.
 
->> Both companies have started to pivot away from pure, commodity ride-sharing, but here’s the interesting part: they’re pivoting in very different directions.
+**Key highlights:**
+
+- 73% of B2C brands have a freemium offering
+- 86% of B2B brands offer a free trial instead of freemium
+- 40% of SaaS products didn’t have a welcome screen for their new users.
+- Only 16% of SaaS products used video messaging in their app
+- 29% of SaaS products used a product tour to show us around
+- 37% of B2B SaaS products had a frictionless sign-up
+- 38% SaaS products of had 3-4 fields on the   sign-up form
+- Only 56% of SaaS products had a checklist as part of on-boarding
+- Only 35% of tools asked for goals, and used that info for greater personalization
+- Only 17% of SaaS products celebrated their users' milestones and achievements
 
 ---
 
-### Five Pricing Trends for 2021
+### Customer-centric growth: 7 Types of Freemium Models
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
@@ -81,7 +90,7 @@ More insights in the article.
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://goodbetterbest.substack.com/p/five-pricing-trends-for-2021">link</a>
+        <a href="https://sixteenventures.com/seven-types-of-freemium">link</a>
     </div>
 </div>
 <div style="display: flex;">
@@ -90,19 +99,24 @@ More insights in the article.
     </div>
 </div>
 
-*Good Better Best* presents a short-list of pricing strategies to watch in 2021. 
-Pricing strategies include 
-- More transparency on pricing (ex: Electrify America, Metromile)
-- Skin in the game pricing (ex: Lambda School, Substack)
-- Enhanced Subscription models(ex: Snowflake, Stitch Fix)
-- Monetizing(ex: Fortnite)
-- Freemium and Selective Monetization(ex: Notion, Nike)
+Continuing on the line of B2B SaaS products, next up is an article from Sixteenventures where they present the 
+7 types of freemium models present in the market today. 
 
-Checkout the blog for details.
+Models include:
+1. Traditional/Classical Freemium
+2. Land & Expand
+3. Unlimited “Free Trial”
+4. Freeware 2.0
+5. Alternative Product Strategy
+6. Ecosystem
+7. Network Effect
+
+
+> Where most companies go wrong is when they confuse “Free Trials” with “Freemium.” If you think Freemium is just an extended “try before you buy”… you’re in for a serious rude awakening.
 
 ---
 
-### Fixing User Personas
+### Product Execution versus Discovery
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
@@ -120,7 +134,7 @@ Checkout the blog for details.
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://learnuxd.io/posts/fixing-user-personas/">link</a>
+        <a href="https://levelup.gitconnected.com/product-execution-versus-discovery-eef5794e70f3">link</a>
     </div>
 </div>
 <div style="display: flex;">
@@ -129,17 +143,17 @@ Checkout the blog for details.
     </div>
 </div>
 
-LearnUXD writes about best practices for building user personas. These include:
-- Discovering data from research
-- Building personas which are digestible and focused
-- Include psychographics, not demographics
-- Limiting to how many personas you should own 
+Product discovery focussed article stressing on the need to asses risks early on, and to focus on the right things 
+based on given product strategy.
 
 Checkout the blog for details.
 
+> Execution focused new products exist where there are clear competitors and a fairly well-established market need.
+> Discovery focused new products exist where the potential customers aren’t sure what solutions are available.
+
 ---
 
-### What Does It Take to Design a Peloton Bike?
+### The Adjacent User Theory
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
@@ -154,7 +168,7 @@ Checkout the blog for details.
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://www.builtinnyc.com/spotlight/2020/10/28/nyc-tech-designing-peloton-bike?__cf_chl_jschl_tk__=06bc4d6133917d5766cfc70a0a93f7873b70ec51-1610182283-0-AQbFQ0Zd_NaRdwmFnSgRNA_xcQAE9C7eWw_9G1KUpXH-N6kZj1JoGrHE94tC8DklICxHXcv_v4cS7NXwBjhTsw1q1ESiLI7iXK9Be5xCaxaFhSrKhRjm7fYWnDqoiAEXs_zLgH7fBdanrgtCNAMd9xePTJumzYrZbwNRnybVTmL5TYjHwt_q5RYrluNnkBB1pJrrdXM8lkmwM-V5AKZkg6t3dEnlntMUM39Nhiy1mD0CFc35f80-c3majQpHzJ3SIwccHMkNq0Sia3FadztLTSU_cMGnXfbif4ljy46qU8OXClTckFG_P2110_BnJnObhE2sf89daGeo7TwaH8SZfa2cIjOvuiPi1HhKy3QoN6u-nHwh5-xih-ct5FxPvTu4yw">link</a>
+        <a href="https://andrewchen.co/the-adjacent-user-theory/">link</a>
     </div>
 </div>
 <div style="display: flex;">
@@ -163,30 +177,28 @@ Checkout the blog for details.
     </div>
 </div>
 
-In this article Stephanie Kaplan describes how they enhanced the Peloton experience by listening to their consumers
-and accordingly prioritizing items. Stephanie highlights the most time consuming part is to stop and listen but this is 
-what helps in building an amazing product experience. 
+Great article on unlocking the product potential by building for the adjacent user by Bangaly Kaba (EIR @ Reforge, Former VP Growth @ Instacart, Instagram)
 
->> Everyone on our team has this obsessive trait of being passionate about the product.
+> There are a set of users who show intent for your product but are not quite able to get over the hump.
+> Those are your Adjacent Users. Solving for the Adjacent User through growth and scaling work helps your product realize its true product-market fit potential.
+
+![AUT](https://1g1uem2nc4jy1gzhn943ro0gz50-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/empathyadjacentuser-1024x576.png "AUT")
 
 ---
 
-### Who Owns the Product Roadmap? How to use Insight and Influence to Guide Product Direction
+### Fourteen Cognitive Biases Common to Product Owners
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
     </div>
     <div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;">
-        <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Mind the Product</div>
-    </div>
-    <div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;">
-        <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Roadmap</div>
+        <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Product Managament</div>
     </div>
 </div>
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://www.mindtheproduct.com/who-owns-the-product-roadmap-how-to-use-insight-and-influence-to-guide-product-direction/">link</a>
+        <a href="https://appliedframeworks.com/fourteen-cognitive-biases-common-to-product-owners/">link</a>
     </div>
 </div>
 <div style="display: flex;">
@@ -195,15 +207,30 @@ what helps in building an amazing product experience.
     </div>
 </div>
 
-Tunde Adeniran writes on Mind the Product about the different scenarios of building roadmap and how to make the best in each scenario.
-Scenarios include
-- Top-down product Roadmap
-- The WOLF or Visionary Product Roadmap
-- The Team-driven or 360-degree Product Roadmap
+
+During the course of user research and developing the problem statement, often times our decision making gets affected 
+with different biases. This article from Carlton Nettleton captures common biases which we as PM's should be aware of:
+- Anchoring
+- Bandwagon effect
+- Bizarreness effect
+- Confirmation bias
+- Curse of knowledge
+- Experimenter’s bias
+- Fundamental attribution error
+- Hyperbolic discounting
+- Information bias
+- Irrational escalation
+- Negativity bias
+- Not invented here
+- Status quo bias
+- Survivorship bias
+
+![Biases](https://1wxquo5k85m19g17y1phgzm1-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/The_Cognitive_Bias_Codex.png "Cognitive Bias Codex")
+
 
 ---
 
-### What is Mixed Methods Research and Why Is It Becoming So Popular?
+### 3 Types of Roadmaps in UX and Product Design
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
@@ -212,13 +239,13 @@ Scenarios include
         <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Product Research</div>
     </div>
     <div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;">
-        <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">User Insights</div>
+        <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Roadmaps</div>
     </div>
 </div>
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://www.opinionx.co/blog/mixed-methods-research">link</a>
+        <a href="https://www.nngroup.com/articles/roadmap-types/">link</a>
     </div>
 </div>
 <div style="display: flex;">
@@ -227,21 +254,22 @@ Scenarios include
     </div>
 </div>
 
-OpinionX writes about `mixed methods research` which combines both qualitative and quantitative methodologies.
-Spotify, Airbnb, Lyft, Slingshot etc companies utilize mixed methodology to enrich their user insights.
+Roadmaps that include UX work generally can have 3 scopes: **product**, **field**, and **specialty**. 
+Using the right type of roadmap based on problem setting can help us in achieving the "right" goals.
 
->> “Data can tell you the what but it can’t tell you the why. We use surveys to get to the why."
->> Anna Marie Clifton — Product Lead, Asana
+> Product roadmaps are the highest-level roadmaps and traditionally inform priorities on field and specialty roadmaps. 
+> Field roadmaps are an expansion of the themes that UX owns on the product roadmap. 
+> Specialty roadmaps are an expansion of the themes that a UX area owns on the field roadmap.
 
 ---
 
-### The 10 Attitudes of Outstanding Product Owners
+### 6 weeks: why it’s the Goldilocks of product timeframes
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
     </div>
     <div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;">
-        <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Product Manager</div>
+        <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Product Execution</div>
     </div>
     <div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;">
         <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Agile</div>
@@ -249,24 +277,15 @@ Spotify, Airbnb, Lyft, Slingshot etc companies utilize mixed methodology to enri
 </div>
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
-        <b>Article: </b>
-        <a href="https://medium.com/serious-scrum/the-10-attitudes-of-outstanding-product-owners-e66bf3173264">link</a>
-    </div>
-</div>
-<div style="display: flex;">
-    <div style="font-size: 14px;"> 
         <b>tl;dr; &nbsp;&nbsp;&nbsp;</b>
     </div>
 </div>
 
-David writes about what qualities as PM should develop which would help in product careers.
-
->> One of the most critical lessons in product is knowing what we can’t know"
->> -Marty Cagan, INSPIRED: How to Create Tech Products Customers Love
+An interesting take from quarterly OKRs goals to 6 week goals
 
 ---
 
-### How to quantify customer happiness: 9 examples of effective CES, CSAT, and NPS surveys
+### Build Products That Solve Real Problems With This Lightweight JTBD Framework
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
@@ -290,13 +309,22 @@ David writes about what qualities as PM should develop which would help in produ
     </div>
 </div>
 
-Shonak talks about NPS, CES and CSAT scoring, and shares 9 examples where these have been done right.
+Learn more about the JTBD framework and how it is used at **Instagram** and **Facebook**.
 
->> A poorly timed or over-the-top survey can erode customer trust and take away from the customer experience.
+Some advantages of using JTBD framework include:
+- Greator focus of the team solving "important" problems
+- Higher likelihood of delivering value to people
+- Greator understanding of competition to our product
+
+The article provides templates and examples of using JTBD and ways in which we can weave 
+the JTBD framework into various stages of product development.
+
+> You can either build something a large number of people want a small amount,
+> or something a small number of people want a large amount. Choose the latter.
 
 ---
 
-### The Top UX Research Conferences to Attend in 2021
+### Go-To-Market - How to craft a winning marketing plan
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
@@ -311,7 +339,7 @@ Shonak talks about NPS, CES and CSAT scoring, and shares 9 examples where these 
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://www.opinionx.co/blog/top-ux-research-conferences-in-2021">link</a>
+        <a href="https://arkapravo.substack.com/p/gtm-marketing-plan">link</a>
     </div>
 </div>
 <div style="display: flex;">
@@ -320,11 +348,19 @@ Shonak talks about NPS, CES and CSAT scoring, and shares 9 examples where these 
     </div>
 </div>
 
-A listing of user research conferences to be held virtually in 2021.
+Arkapravo writes about marketing being a core part of GTM strategy. **Channel determination**, **pricing** and **message testing** 
+are key strategic elements which need to be fleshed out for a long term strategy. The writeup also provides insights on how to utilize
+value matrix to define our customer persona, the business problem(s) and corresponding product solution(s) and catered messaging.
+
+> The power law of channels says that a company that has product-channel fit will get 70%+ of its growth from one channel at a given moment in time.
+> Thus, to get an optimum ROI, companies should invest in at most 3-4 channels at any given point in time.
+
+![Credits - Hubspot](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c743598-7b99-4b48-af5d-3d1f554412c4_1131x726.png "Credits - Hubspot")
+*Credits - Hubspot*
 
 ---
 
-### How Product Managers can work best with designers
+### Peacock's Prize: Unbundling The Office
 
 <div style="display: flex">
     <div style="font-size: 14px;"> <b>Tags: &nbsp;&nbsp;&nbsp;</b>
@@ -339,7 +375,7 @@ A listing of user research conferences to be held virtually in 2021.
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://productcollective.com/how-product-managers-can-best-work-with-designers/">link</a>
+        <a href="https://goodbetterbest.substack.com/p/peacocks-prize-unbundling-the-office">link</a>
     </div>
 </div>
 <div style="display: flex;">
@@ -348,7 +384,10 @@ A listing of user research conferences to be held virtually in 2021.
     </div>
 </div>
 
-Kent presents a collection of great articles on how PMs can work best with UX designers.
+I am sure we all would have noticed Office moving away from Netflix to Peacock. 
+Goodbetterbest writes about how Peacock is using "Office" to fuel acquisition and monetization.
+
+![Office](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff93c04e0-766d-42ea-ae2f-72ffcaf2d488_1624x718.png "Office")
 
 ---
 
@@ -461,211 +500,183 @@ table th {
   <tbody>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: How to Use Mental Models in Your Product Role by Farfetch Sr PM</b>
+        <b>Webinar: How to Be an Enterprise PM and Build for Hypergrowth by Twilio PM</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;  "><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Victor Duran/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;  "><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Prateek Jain/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-how-to-use-mental-models-in-your-product-role-by-farfetch-sr-pm-tickets-132013677463?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-how-to-be-an-enterprise-pm-and-build-for-hypergrowth-by-twilio-pm-tickets-131842752221?aff=">Register Link  </a>
       </td>
      <td data-label="Date/Time">
-      Mon, January 18, 2021, 3:30 AM – 4:00 AM PST 
+      Wed, January 20, 2021, 11:30 AM – 12:00 PM PST
     </td>
     </tr>
      <tr>
       <td data-label="Event Name">
-        <b>Webinar: Data Product Management by Tinder Group PM</b>
+        <b>Webinar: PM Stories & Lessons by fmr GoPro Product Leader</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Murali Bhogavalli/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Adam Silver/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-data-product-management-by-tinder-group-pm-tickets-130001262275?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-pm-stories-lessons-by-fmr-gopro-product-leader-tickets-131325647547?aff=">Register Link  </a>
       </td>
      <td data-label="Date/Time">
-      Fri, January 15, 2021, 2:00 PM – 2:30 PM PST
+      Wed, January 20, 2021, 2:00 PM – 2:30 PM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: Product Managers Contributing to Business Growth by Amazon PM</b>
+        <b>Webinar: Negotiating Better Product by N26 Group Product Manager</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Poornima Jarajapu/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Dmitry Filippov/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-product-managers-contributing-to-business-growth-by-amazon-pm-tickets-130677769727?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-negotiating-better-product-by-n26-group-product-manager-tickets-133837005085?aff=">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-      Fri, January 15, 2021, 11:30 AM – 12:00 PM PST
+      Thu, January 21, 2021, 3:30 AM – 4:00 AM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: How to Land a PM Job That Suits You by DAZN Sr Recruiter</b>
+        <b>Fireside Chat with Helpshift CEO, Abinash Tripathy</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Kasia Paczynska/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Abinash Tripathy/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-how-to-land-a-pm-job-that-suits-you-by-dazn-sr-recruiter-tickets-126548041599?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/fireside-chat-with-helpshift-ceo-abinash-tripathy-tickets-130002678511?aff=">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-        Thu, January 14, 2021, 2:00 PM – 2:30 PM PST
+        Thu, January 21, 2021, 1:00 PM – 1:30 PM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: Crossing Into PM from a Non-Tech Background by Atlassian Sr PM</b>
+        <b>Webinar: How to Get a Job in Product by Mailchimp Director of Product</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Andrea Ho/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Derek Lasher/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-crossing-into-pm-from-a-non-tech-background-by-atlassian-sr-pm-tickets-132243892041?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-how-to-get-a-job-in-product-by-mailchimp-director-of-product-tickets-132514419195?aff=">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Thu, January 14, 2021, 3:30 AM – 4:00 AM PST
+Thu, January 21, 2021, 2:00 PM – 2:30 PM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: PM Roles at a Startup VS Enterprise Company by Salesforce PM</b>
+        <b>Webinar: Outcome-Driven Product Management by PlayStation Sr PM</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Almeen Arif/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Jonathan Farrow/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-pm-roles-at-a-startup-vs-enterprise-company-by-salesforce-pm-tickets-127861237403?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-outcome-driven-product-management-by-playstation-sr-pm-tickets-132514421201?aff=">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Wed, January 13, 2021, 2:00 PM – 2:30 PM PST
+Fri, January 22, 2021, 3:30 AM – 4:00 AM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Your First 90 Days as a New PM</b>
+        <b>Webinar: Writing for Product Managers by Uber Sr PM</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Kevin George/Product Management Nights</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Divya Anand/Product Management Nights</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.meetup.com/Product-Management-Nights-New-York/events/270691487/">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-writing-for-product-managers-by-uber-sr-pm-tickets-127154579771?aff=">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Thursday, January 14, 2021, 6:30 PM to 8:00 PM EST
+Fri, January 22, 2021, 11:30 AM – 12:00 PM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: How to Design UX for AI by Zillow Principal PM</b>
+        <b>Webinar: Facilitating Co-Creation & Stakeholder Alignment by Audible Sr PM</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Debapriya Basu/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Julia Molloy/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-how-to-design-ux-for-ai-by-zillow-principal-pm-tickets-131608313007?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-facilitating-co-creation-stakeholder-alignment-by-audible-sr-pm-tickets-132237240145?aff=">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Wed, January 13, 2021, 3:30 AM – 4:00 AM PST
+Fri, January 22, 2021, 2:00 PM – 2:30 PM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: How to Lead Cross-Functional Teams by PayPal Sr PM</b>
+        <b>Webinar: Challenges of a Product Manager by eBay Sr PM</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Dawn Sheirzad/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Astika Gupta/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-how-to-lead-cross-functional-teams-by-paypal-sr-pm-tickets-126955975741?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-challenges-of-a-product-manager-by-ebay-sr-pm-tickets-135489981181?aff=">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Tue, January 12, 2021 2:00 PM – 2:30 PM PST
+Sat, January 23, 2021, 11:30 AM – 12:00 PM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: Machine Learning Fundamentals for PMs by fmr Expedia Sr PM</b>
+        <b>Webinar: Success With a Distributed Product Team by Salesforce PM Director</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Francesco De Leonardis/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Rashmi Singh/Product School</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-machine-learning-fundamentals-for-pms-by-fmr-expedia-sr-pm-tickets-124677231957?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/webinar-success-with-a-distributed-product-team-by-salesforce-pm-director-tickets-127438579221?aff=">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Tue, January 12, 2021, 11:30 AM – 12:00 PM PST
+Sun, January 24, 2021, 11:30 AM – 12:00 PM PST
     </td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: Building Products with Balance by Atlassian Sr PM</b>
+        <b>The UX Leaders' Secret Guide to Innovative, UX-Driven Product Roadmaps</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Bhoomika Kumawat/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">BostonCHI</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-building-products-with-balance-by-atlassian-sr-pm-tickets-131324445953?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/the-ux-leaders-secret-guide-to-innovative-ux-driven-product-roadmaps-tickets-132838767329?aff=ebdssbonlinesearch">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Tue, January 12, 2021, 3:30 AM – 4:00 AM PST
+Thu, January 21, 2021, 3:30 PM – 5:30 PM PST
     </td>
     </tr>
    <tr>
       <td data-label="Event Name">
-        <b>Podcast: Misconceptions About Becoming a PM with Waymo CPO</b>
+        <b>At Home: The Future of Smart Home Products</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Dan Chu/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Mitte</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/podcast-misconceptions-about-becoming-a-pm-with-waymo-cpo-tickets-131355410569?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/at-home-the-future-of-smart-home-products-tickets-131900693525?aff=ebdssbonlinesearch&keep_tld=1">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Mon, January 11, 2021, 8:00 PM – 9:00 PM PST   </td>
+Wed, 20 January 2021, 09:00 – 10:00 PST</td>
     </tr>
     <tr>
       <td data-label="Event Name">
-        <b>Webinar: Product Management in a Post COVID World by Live Nation PM</b>
+        <b>How to build AI products for energy sector, by Fmr. Tesla Product Manager</b>
       </td>
       <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Ahmed Nimale/Product School</div></div></div>
+       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">The Undistancing Project</div></div></div>
       </td>
       <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-product-management-in-a-post-covid-world-by-live-nation-pm-tickets-130565391601?aff=">Register Link  </a>
+        <a href="https://www.eventbrite.com/e/how-to-build-ai-products-for-energy-sector-by-fmr-tesla-product-manager-tickets-133559454925?aff=ebdssbonlinesearch">Register Link  </a>
       </td>
     <td data-label="Date/Time">
-Mon, January 11, 2021, 2:00 PM – 2:30 PM PST
-    </td>
-    </tr>
-    <tr>
-      <td data-label="Event Name">
-        <b>Webinar: How to Navigate Through Ambiguity & Uncertainty by Square PM</b>
-      </td>
-      <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Reese Barbour/Product School</div></div></div>
-      </td>
-      <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-how-to-navigate-through-ambiguity-uncertainty-by-square-pm-tickets-127988064747?aff=">Register Link  </a>
-      </td>
-    <td data-label="Date/Time">
-Mon, January 11, 2021, 11:30 AM – 12:00 PM PST
-    </td>
-    </tr>
-    <tr>
-      <td data-label="Event Name">
-        <b>Webinar: Product Development Cycle by Farfetch Principal PM</b>
-      </td>
-      <td data-label="Presented By/Created By">
-       <div style="display: flex; min-width: 0px;"><div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgba(255, 255, 255, 0.7); background: rgba(154, 109, 215, 0.5); margin: 0px 6px 0px 0px;"><div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Nuno Martins/Product School</div></div></div>
-      </td>
-      <td data-label="Register Link  ">
-        <a href="https://www.eventbrite.com/e/webinar-product-development-cycle-by-farfetch-principal-pm-tickets-130392514521?aff=">Register Link  </a>
-      </td>
-    <td data-label="Date/Time">
-Mon, January 11, 2021, 3:30 AM – 4:00 AM PST
+Wed, January 20, 2021, 7:00 PM – 8:00 PM PST
     </td>
     </tr>
   </tbody>
