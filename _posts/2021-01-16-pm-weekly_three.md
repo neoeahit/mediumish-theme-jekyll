@@ -300,7 +300,7 @@ An interesting take from quarterly OKRs goals to 6 week goals
 <div style="display: flex;">
     <div style="font-size: 14px;"> 
         <b>Article: </b>
-        <a href="https://www.appcues.com/blog/ces-csat-nps-customer-survey-examples">link</a>
+        <a href="https://firstround.com/review/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/">link</a>
     </div>
 </div>
 <div style="display: flex;">
