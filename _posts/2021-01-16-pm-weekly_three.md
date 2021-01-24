@@ -3,7 +3,7 @@ layout: post
 title:  "#7 Product Management Weekly"
 author: Vipul
 categories: [ Product Management, Weekly ]
-featured: true
+featured: false
 hidden: false
 rating: 5
 image: assets/images/blog_weekly.jpg
