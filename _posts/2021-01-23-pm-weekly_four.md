@@ -10,7 +10,7 @@ image: assets/images/blog_weekly.jpg
 ---
 
 Welcome to the another edition of the Product Weekly newsletter. This week’s write up focuses on insights on **end-user interactions**, **UX writing**,
-**Racecar Growth framework**, **The Spotify Model**, **Product Analytical tooling**, **self-reflection** and much more
+**Racecar Growth framework**, **The Spotify Model**, **Product Analytical tooling**, **self-reflection** and much more.
 
 <div class="well page-footer mt-auto text-left">
             <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
