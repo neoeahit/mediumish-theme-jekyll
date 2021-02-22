@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "#8 Product Management Weekly"
-author: Vipul
+author: 
 categories: [ Product Management, Weekly ]
-featured: true
+featured: false
 hidden: false
-rating: 5
+rating: 4
 image: assets/images/blog_weekly.jpg
 ---
 
