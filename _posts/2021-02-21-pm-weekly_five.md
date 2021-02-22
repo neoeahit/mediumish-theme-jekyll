@@ -10,10 +10,12 @@ image: assets/images/blog_weekly.jpg
 ---
 
 Welcome to the another exciting edition of the Product Weekly newsletter. 
-This week’s write up focuses on new social monetization models, NPS scoring across industries,
-Iceberg Canvas, Community/Network competitive advantage, UX benchmarking and more!
+
+This week’s write-up focuses on **new social monetization models**, **NPS scoring across industries**,
+**Iceberg Canvas**, **Community/Network competitive advantage**, **UX benchmarking** and more!
 The articles span across many companies, but mainly focus on "social" product offerings.
-Keep reading and dont forget to subscribe if you already haven't.
+
+Keep reading and don't forget to subscribe if you haven't already.
 
 
 <div class="well page-footer mt-auto text-left">
