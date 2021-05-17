@@ -52,7 +52,7 @@ As US retailers continue to struggle due to traffic slumps and increased acquisi
 social + in ecommerce will be an exciting opportunity space to look for in future
 
 Apps like TikTok and Instagram are projected to generate $10B in 2021, 
-Facebook and Instagram are [rolling out] (https://www.modernretail.co/platforms/as-big-tech-goes-all-in-on-live-stream-shopping-small-brands-may-profit/) shoppable livestreams, 
+Facebook and Instagram are [rolling out](https://www.modernretail.co/platforms/as-big-tech-goes-all-in-on-live-stream-shopping-small-brands-may-profit/) shoppable livestreams, 
 and whatsapp recently added [stores](https://www.modernretail.co/platforms/how-a-shoppable-whatsapp-might-give-a-boost-to-small-sellers/), what we see is just the beginning
 of a social+ ecommerce era.
 
