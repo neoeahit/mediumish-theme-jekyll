@@ -64,7 +64,7 @@ of a social+ ecommerce era.
 - [US ecommerce grows 44.0% in 2020](https://www.digitalcommerce360.com/article/us-ecommerce-sales/)  
 - [Pinduoduo and the Rise of Social E-Commerce](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce)
 - [Social Share Buttons are Useless and Unused](https://www.adquadrant.com/blog/oh-goodness-social-share-buttons-are-useless-and-unused-report)
-- [Customer Acquisition Costs: China](https://www.statista.com/statistics/1126670/china-average-customer-acquisition-costs-by-ecommerce-platform/))
+- [Customer Acquisition Costs: China](https://www.statista.com/statistics/1126670/china-average-customer-acquisition-costs-by-ecommerce-platform/)
 
 
 <footer class="well page-footer mt-auto text-center">
