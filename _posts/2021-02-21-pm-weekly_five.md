@@ -3,7 +3,7 @@ layout: post
 title:  "#9 Product Management Weekly"
 author: 
 categories: [ Product Management, Weekly ]
-featured: true
+featured: false
 hidden: false
 rating: 5
 image: assets/images/blog_weekly.jpg
